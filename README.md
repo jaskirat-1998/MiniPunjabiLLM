@@ -7,4 +7,4 @@ In this repository I am trying to train my own LLM (actually MLM i.e. mini langu
 - Perform experiments with LLMs:
   1. so far I have implemented RoPE embeddings.
   2. multi-character prediction based in Meta's multi-token prediction paper.
-  3. Visulaised attention scores: ![alt text](image.png)
+  3. Visulaised attention scores: ![can't load the attention score image](image-1.png)
