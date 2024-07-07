@@ -4,6 +4,6 @@ In this repository I am trying to train my own LLM (actually MLM i.e. mini langu
 ### Goal:
 - To better understand and fill gaps in my knowledge about the decoder only transformer architecture by implemeting it in Pytorch.
 - To have a better understanding of langugae models in general.
-- Perform experiments with LLMs
-1. so far I have implemented RoPE embeddings  
-2. multi-character prediction based in Meta's multi-token prediction paper.
+- Perform experiments with LLMs:
+  1. so far I have implemented RoPE embeddings.
+  2. multi-character prediction based in Meta's multi-token prediction paper.
